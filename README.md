@@ -1,2 +1,2 @@
 # CadL94.github.io
-Prototype page for app
+.Git Prototype page for application.
